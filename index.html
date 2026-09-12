@@ -153,7 +153,26 @@ footer{display:flex;justify-content:space-between;gap:30px;padding:25px max(calc
   .proposal-gallery figure{flex-basis:94%}
 }
 
-</style></head>
+@media (max-width: 820px) {
+  .section-intro,
+  .project-heading,
+  .project-heading > div,
+  .project-details,
+  .project-details > div,
+  .project-details p,
+  .project-details ul {
+    width: 100%;
+    max-width: none;
+  }
+
+  .project-details {
+    display: block;
+  }
+
+  .project-details > div + div {
+    margin-top: 24px;
+  }
+}</style></head>
 <body>
 <header class="site-header" id="home"><div class="signature-wrap"><a class="signature" href="#home">Farjana Orpy</a><span>Code · Research · Create</span></div><button class="mobile-menu" id="menuBtn">☰</button><nav id="nav"><a href="#home">Home</a><a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#experience">Experience</a><a href="#education">Education</a><a href="#resume">Resume</a><a href="#contact">Contact</a></nav></header>
 <main>
