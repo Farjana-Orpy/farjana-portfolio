@@ -12,7 +12,7 @@ A personal portfolio showcasing my software projects, technical skills, educatio
 
 ## About me
 
-I'm a Computer Science and Engineering undergraduate at **Metropolitan University, Sylhet, Bangladesh** (CGPA: **3.93/4.00**, as listed in my current CV). My interests include full-stack web development, algorithms, applied AI, and research-oriented software. I received the **Chairman's Scholarship** in recognition of academic excellence.
+I'm a Computer Science and Engineering undergraduate at **Metropolitan University, Sylhet, Bangladesh**  My interests include full-stack web development, algorithms, applied AI, and research-oriented software. I received the **Chairman's Scholarship** in recognition of academic excellence.
 
 ## Featured projects
 
@@ -76,17 +76,6 @@ ilt around Farjana's real project work.
 - SafeSheRides proposal slides
 - Embedded CV viewer
 - GitHub / LinkedIn / Codeforces links
-
-## Projects
-- GradMap BD — research-based graduate study discovery and planning system (in development)
-- QuizVerse — MERN full-stack quiz platform
-- Automatic Fire Fighting Robot
-- Smart Menu Order Management System
-- SafeSheRides — women-only bus-service business proposal for Sylhet
-- Simple Banking System
-
-## Open locally
-Open `index.html` directly in a browser.
 
 ## Deploy
 This version is a static site. Upload the whole folder to Netlify, or drag the folder into Netlify Drop. Keep the `assets` folder next to `index.html`.
