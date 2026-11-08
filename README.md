@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34544665/README.md)
 # Farjana Zaman Orpy — Portfolio
 
-This is the media-enhanced portfolio version bu# Farjana Zaman Orpy — Developer Portfolio
+ Farjana Zaman Orpy — Developer Portfolio
 
 **Computer Science & Engineering Undergraduate · Full-Stack Development · Problem Solving · Research & Innovation**
 
