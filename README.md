@@ -51,3 +51,28 @@ Upload the contents of this folder (including `index.html`, `Farjana-Zaman-Orpy-
 - Embedded all 15 screenshots/photos for QuizVerse, Fire Fighting Robot, Smart Menu OMS and SafeSheRides directly into `index.html` as self-contained images.
 - `assets/` folder is still included for original image backups, but the homepage project galleries do not depend on it.
 - You can update `index.html` alone on GitHub Pages without losing project images. The CV PDF remains a separate file for download.
+
+
+## 2026-11-08 portfolio content update
+- Kept the existing site design, page sections, media galleries, navigation, and existing project text.
+- Added MU Transit, SkillBridge, and Terra Trend with matching project case-study cards and accurate descriptions sourced from the new CV.
+- Added the Chairman’s Scholarship under the existing "Certifications & Highlights" section.
+- Replaced `Farjana-Zaman-Orpy-CV.pdf` in place with the user's new two-page CV; regenerated all four embedded thumbnails in the resume section and modal, keeping existing PDF download paths valid.
+- Added a Terra Trend site screenshot backup under `assets/`. New illustrative concept previews for MU Transit and SkillBridge are labeled as such.
+- No GitHub account or live hosting changes were made. To update the existing GitHub Pages portfolio, upload and replace the repository root files; keep the unchanged `assets` directory.
+
+
+## Navigation, coursework & GitHub links — 8 November 2026
+
+- **Home** now scrolls to the true top of the page rather than targeting the sticky navigation header.
+- All navigation links adjust for the real header height so page titles remain visible on both desktop and mobile. Direct section URLs (e.g. `index.html#projects`) are also supported.
+- Added the three courses in the supplied November 2026 CV: **Web Programming**, **Artificial Intelligence**, and **Software Engineering**. No other coursework was removed.
+- Added GitHub-style repository links for **MU Transit**, **SkillBridge**, and **Terra Trend**, matching the existing project-card links.
+- The GitHub URLs use repository names established in the project's earlier setup: `MU-Transit`, `SkillBridge`, and `terra-trend-nasa-2026`. GitHub access was unavailable for independent confirmation, so the site also tries to resolve public repository names through the GitHub API when loaded online. Verify that the three destination URLs match the repositories in your account before publishing.
+- The original layout, colors, all other project entries and descriptions, achievements, and supplied CV PDF remain unchanged.
+
+### November 8: targeted navigation and link adjustments
+- All section navigation now animates smoothly and positions the visible heading just below the sticky navbar.
+- Added GradMap BD source repository link.
+- Added deployed website links for GradMap BD, MU Transit and SkillBridge. The URLs were provided in earlier user conversations; test them in an online browser before publishing this portfolio version.
+- No existing biography, project descriptions, fonts, colors, education, achievements, CV, or site section order were changed.
