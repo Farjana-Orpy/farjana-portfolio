@@ -1,6 +1,75 @@
+[README.md](https://github.com/user-attachments/files/34544665/README.md)
 # Farjana Zaman Orpy — Portfolio
 
-This is the media-enhanced portfolio version built around Farjana's real project work.
+This is the media-enhanced portfolio version bu# Farjana Zaman Orpy — Developer Portfolio
+
+**Computer Science & Engineering Undergraduate · Full-Stack Development · Problem Solving · Research & Innovation**
+
+A personal portfolio showcasing my software projects, technical skills, education, achievements, and experience. I enjoy turning practical problems into clear, useful web applications.
+
+**[View my portfolio](https://farjana-orpy.github.io/farjana-portfolio/)** · **[GitHub profile](https://github.com/Farjana-Orpy)**
+
+---
+
+## About me
+
+I'm a Computer Science and Engineering undergraduate at **Metropolitan University, Sylhet, Bangladesh** (CGPA: **3.93/4.00**, as listed in my current CV). My interests include full-stack web development, algorithms, applied AI, and research-oriented software. I received the **Chairman's Scholarship** in recognition of academic excellence.
+
+## Featured projects
+
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **GradMap BD** | Helps prospective graduate students research Master's and PhD programmes, admissions requirements, scholarships, and deadlines. | [Repository](https://github.com/Farjana-Orpy/GradMap-BD) |
+| **MU Transit** | University transportation platform for routes, stops, schedules, and bus-tracking workflows. | [Repository](https://github.com/Farjana-Orpy/MU-Transit) |
+| **SkillBridge** | Student-focused job and internship marketplace with skills-based matching and in-platform applications. | [Repository](https://github.com/Farjana-Orpy/SkillBridge) |
+| **Terra Trend** | NASA Space Apps project exploring environmental indicators, trend charts, and location comparisons. | [Repository](https://github.com/Farjana-Orpy/terra-trend-nasa-2026) |
+| **QuizVerse** | MERN-stack quiz platform with authentication, timed quizzes, scores, and leaderboards. | [Repository](https://github.com/Farjana-Orpy/quizverse) |
+| **Smart Menu OMS** | PHP/MySQL restaurant menu and order-management application. | [Repository](https://github.com/Farjana-Orpy/smart_menu_OMS) |
+
+The portfolio also includes an **Automatic Fire Fighting Robot**, **SafeSheRides** business proposal, and a **Java Banking System**. Project descriptions represent their intended or developed features; see individual repositories for current implementation status.
+
+## Skills
+
+- **Languages:** C, C++, Java, Python, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Tools and concepts:** Git/GitHub, REST APIs, JWT authentication, object-oriented programming, and problem solving
+
+## Portfolio highlights
+
+- Nine selected projects across web development, applied AI, transportation, environmental data, and hardware.
+- Academic recognition: **Chairman's Scholarship**, Metropolitan University.
+- Downloadable updated CV, education details, project case studies, and contact links.
+- Responsive, single-page portfolio with accessible navigation and section anchors.
+
+## Run locally
+
+1. Download or clone this repository.
+2. Open **`index.html`** in a modern web browser.
+3. Keep the **`assets/`** folder and **`Farjana-Zaman-Orpy-CV.pdf`** alongside the homepage files.
+
+No backend or installation is required to browse the portfolio itself. Linked projects may have separate hosting and setup requirements.
+
+## Repository structure
+
+```text
+farjana-portfolio/
+├── index.html                  # Main portfolio page
+├── assets/                     # Project images and media
+├── Farjana-Zaman-Orpy-CV.pdf   # Downloadable CV
+├── portfolio-preview.html      # Alternate preview file
+└── README.md                   # This overview
+```
+
+## Contact and professional profiles
+
+Visit the **[Contact section of my portfolio](https://farjana-orpy.github.io/farjana-portfolio/#contact)** for my current professional links and contact options.
+
+---
+
+*Built and maintained by Farjana Zaman Orpy. This repository hosts the portfolio website; the linked projects are maintained in their own repositories.*
+ilt around Farjana's real project work.
 
 ## Included media
 - Personal portrait
